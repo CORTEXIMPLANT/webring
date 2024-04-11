@@ -8,4 +8,4 @@ Organizational repo for the OBEY THE SYSTEM webring.
 - https://garden.pionaiki.com
 
 ## Wanna join?
-You can open a pull request with an edit to `README.md` with your added website. You're gonna be approved if we know you.
+You can open a pull request with an edit to `README.md` with your added website. You're gonna be approved if we know you. If you don't know git or don't want to use a github you can also message `@marta@corteximplant.com`
