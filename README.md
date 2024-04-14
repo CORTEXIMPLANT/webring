@@ -4,6 +4,16 @@ Organizational repo for the OBEY THE SYSTEM webring.
 ## Website list
 <!-- embedme websites.json -->
 ```json
+[
+  {"name": "Cacti Garden", "url": "https://garden.pionaiki.com"},
+  {"name": "DATAKRASH", "url": "https://datakra.sh"},
+  {"name": "bbrae", "url": "https://bbrae.neocities.org"},
+  {"name": "Problem Fox", "url": "https://problemfox.net"},
+  {"name": "Wicked Game", "url": "https://wickedga.me"},
+  {"name": "Night City Life", "url": "https://nightcity.life"},
+  {"name": "サイバー.net", "url": "https://xn--eck7a4e3h.net"}
+]
+
 ```
 
 ## Wanna join?
