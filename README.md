@@ -12,7 +12,8 @@ Organizational repo for the OBEY THE SYSTEM webring.
   {"name": "Wicked Game", "url": "https://wickedga.me"},
   {"name": "Night City Life", "url": "https://nightcity.life"},
   {"name": "サイバー.net", "url": "https://xn--eck7a4e3h.net"},
-  {"name": "twop0intfive", "url": "https://www.twop0intfive.xyz"}
+  {"name": "twop0intfive", "url": "https://www.twop0intfive.xyz"},
+  {"name": "JT-DigiGarden", "url": "https://jadedtwin.neocities.org"}
 ]
 
 ```
