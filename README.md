@@ -14,7 +14,8 @@ Organizational repo for the OBEY THE SYSTEM webring.
   {"name": "サイバー.net", "url": "https://xn--eck7a4e3h.net"},
   {"name": "twop0intfive", "url": "https://www.twop0intfive.xyz"},
   {"name": "JT-DigiGarden", "url": "https://jadedtwin.neocities.org"},
-  {"name": "Bill Hunt", "url": "https://billhunt.dev"}
+  {"name": "Bill Hunt", "url": "https://billhunt.dev"},
+  {"name": "moondvsted", "url": "https://moondvsted.neocities.org"}
 ]
 
 ```
