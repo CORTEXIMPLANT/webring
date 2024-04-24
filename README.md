@@ -16,7 +16,8 @@ Organizational repo for the OBEY THE SYSTEM webring.
   {"name": "JT-DigiGarden", "url": "https://jadedtwin.neocities.org"},
   {"name": "Bill Hunt", "url": "https://billhunt.dev"},
   {"name": "moondvsted", "url": "https://moondvsted.neocities.org"},
-  {"name": "pixeldesu", "url": "https://pixelde.su"}
+  {"name": "pixeldesu", "url": "https://pixelde.su"},
+  {"name": "Antarctica Starts Here", "url": "https://drwho.virtadpt.net"}
 ]
 
 ```
