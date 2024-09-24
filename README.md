@@ -21,7 +21,7 @@ Organizational repo for the OBEY THE SYSTEM webring.
   {"name": "tearoom.earth", "url": "https://tearoom.earth"},
   {"name": "PREEMchro.me", "url": "https://preemchro.me"},
   {"name": "Ti Kallisti", "url": "https://ti-kallisti.com"},
-  {"name": "Fabio Alfa's blog", "url": "https://www.fabioag.it/"}
+  {"name": "Fabio Alfa's blog", "url": "https://www.fabioag.it"}
 ]
 
 ```
