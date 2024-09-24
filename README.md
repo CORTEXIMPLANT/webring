@@ -20,7 +20,8 @@ Organizational repo for the OBEY THE SYSTEM webring.
   {"name": "Antarctica Starts Here", "url": "https://drwho.virtadpt.net"},
   {"name": "tearoom.earth", "url": "https://tearoom.earth"},
   {"name": "PREEMchro.me", "url": "https://preemchro.me"},
-  {"name": "Ti Kallisti", "url": "https://ti-kallisti.com"}
+  {"name": "Ti Kallisti", "url": "https://ti-kallisti.com"},
+  {"name": "Fabio Alfa's blog", "url": "https://www.fabioag.it/"}
 ]
 
 ```
