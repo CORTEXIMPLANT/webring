@@ -22,7 +22,8 @@ Organizational repo for the OBEY THE SYSTEM webring.
   {"name": "PREEMchro.me", "url": "https://preemchro.me"},
   {"name": "Ti Kallisti", "url": "https://ti-kallisti.com"},
   {"name": "Fabio Alfa's blog", "url": "https://www.fabioag.it"},
-  {"name": "I think therefore I Sam", "url": "https://dalfuss.net"}
+  {"name": "I think therefore I Sam", "url": "https://dalfuss.net"},
+  {"name": "netcat", "url": "https://nekopy.neocities.org"},
 ]
 
 ```
