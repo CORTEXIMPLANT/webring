@@ -24,6 +24,7 @@ Organizational repo for the OBEY THE SYSTEM webring.
   {"name": "Fabio Alfa's blog", "url": "https://www.fabioag.it"},
   {"name": "I think therefore I Sam", "url": "https://dalfuss.net"},
   {"name": "netcat", "url": "https://nekopy.neocities.org"}
+  {"name": "Lynn's Lair", "url": "https://lynns-lair.neocities.org"}
 ]
 
 ```
