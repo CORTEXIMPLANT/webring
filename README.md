@@ -25,7 +25,7 @@ Organizational repo for the OBEY THE SYSTEM webring.
   {"name": "I think therefore I Sam", "url": "https://dalfuss.net"},
   {"name": "netcat", "url": "https://nekopy.neocities.org"},
   {"name": "Lynn's Lair", "url": "https://lynns-lair.neocities.org"},
-  {"name": "Mikoshi", "url": "https://mikoshi.in/"}
+  {"name": "Mikoshi", "url": "https://mikoshi.in"}
 ]
 
 ```
