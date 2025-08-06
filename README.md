@@ -25,7 +25,8 @@ Organizational repo for the OBEY THE SYSTEM webring.
   {"name": "netcat", "url": "https://nekopy.neocities.org"},
   {"name": "Lynn's Lair", "url": "https://lynns-lair.neocities.org"},
   {"name": "Mikoshi", "url": "https://mikoshi.in"},
-  {"name": "cyberblink", "url": "https://cyberb.link"}
+  {"name": "cyberblink", "url": "https://cyberb.link"},
+  {"name": "Short Circuit Bar", "url": "https://shortcircuit.bar"}
 ]
 
 ```
