@@ -27,7 +27,8 @@ Organizational repo for the OBEY THE SYSTEM webring.
   {"name": "Mikoshi", "url": "https://mikoshi.in"},
   {"name": "cyberblink", "url": "https://cyberb.link"},
   {"name": "Short Circuit Bar", "url": "https://shortcircuit.bar"},
-  {"name": "Prozak!", "url": "https://prozak.org"}
+  {"name": "Prozak!", "url": "https://prozak.org"},
+  {"name": "Awesome", "url": "https://awesome.ovh"}
 ]
 
 ```
